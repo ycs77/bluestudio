@@ -1,0 +1,42 @@
+[
+   {
+      "name":"網路名片",
+      "client":"我",
+      "description":"練習基本HTML/CSS",
+      "website":"https://codepen.io/wang48372162/full/JrmEJv",
+      "img":"https://ycs.otarc.net/bluestudio/img/works_1.jpg",
+      "content":""
+   },
+   {
+      "name":"品牌網頁視覺引導",
+      "client":"我",
+      "description":"練習SASS、配色",
+      "website":"https://codepen.io/wang48372162/full/rYebbL",
+      "img":"https://ycs.otarc.net/bluestudio/img/works_2.jpg",
+      "content":""
+   },
+   {
+      "name":"動態天氣盒子",
+      "client":"我",
+      "description":"練習SVG",
+      "website":"https://codepen.io/wang48372162/full/oozWvW",
+      "img":"https://ycs.otarc.net/bluestudio/img/works_3.jpg",
+      "content":""
+   },
+   {
+      "name":"jQuery動態購物清單",
+      "client":"我",
+      "description":"練習基本JS",
+      "website":"https://codepen.io/wang48372162/full/bYrYoL",
+      "img":"https://ycs.otarc.net/bluestudio/img/works_4.jpg",
+      "content":""
+   },
+   {
+      "name":"Bootstrap實作捲動式網頁 - 半導體",
+      "client":"我",
+      "description":"練習Bootstrap",
+      "website":"https://codepen.io/wang48372162/full/vWpGGR",
+      "img":"https://ycs.otarc.net/bluestudio/img/works_5.jpg",
+      "content":""
+   }
+]

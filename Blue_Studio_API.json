@@ -1,0 +1,130 @@
+[
+   {
+      "name": "雜學校 | zashare 網頁製作",
+      "client": "雜學校",
+      "description": "亞洲最大的創新教育展",
+      "website": "http://zashare.org",
+      "img": "http://www.monoame.com/projects/proj_zashare/main.jpg",
+      "content": "<p>使用動態資料手法處理地圖，及時與所有攤位資料做連結，攤位資料部分使用Vue.js建立萬用搜尋系統，即時從名稱、內文、編號等資料搜尋，標出正在尋找的字串。</p><img src='http://www.monoame.com/projects/proj_zashare/web1.JPG' style='width: 100%'/><br><img src='http://www.monoame.com/projects/proj_zashare/web2.JPG' style='width: 100%'/><br><p>雜學翻翻樂</p><br><a href='http://s.codepen.io/frank890417/debug/woeEdJ'>連結</a><img src='https://media.giphy.com/media/3oriO2z4cQXL85XEru/source.gif' style='width: 100%'/><br><br><h5>雜學直播設計</h5><img src='http://www.monoame.com/projects/proj_zashare/web3.jpg' style='width: 100%'/>"
+   },
+   {
+      "name": "交大創業日 CIS/海報設計",
+      "client": "交大產學中心",
+      "description": "可能性與人群，創業的高峰論壇",
+      "website": "",
+      "img": "http://www.monoame.com/projects/proj_create_poster/main.jpg",
+      "content": "<p>人群，每個人都是獨一無二的存在，而我們的構成又是生命歷程中所見所聞建構的，如同不同的零件拼湊成完整的人<br><br>藉由方塊小人的形式，闡述人格組合的概念，創業乃是由一群互補的夥伴或是敵人交織而成，在討論 爭吵 或合作中找到一條可行的未來。</p><img src='http://www.monoame.com/projects/proj_create_poster/poster.jpg' style='width: 100%'/>"
+   },
+   {
+      "name": "動畫互動網頁程式入門",
+      "client": "墨雨設計",
+      "description": "從設計出發的程式教學，協助設計師轉型",
+      "website": "https://hahow.in/cr/monoame-webdesign1",
+      "img": "http://www.monoame.com/projects/proj_course/main.png",
+      "content": "<img src='https://i.giphy.com/3o6ZtmQ7DAO3Itq8Q8.gif' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_course/proj7.JPG' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_course/board.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_course/board2.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_course/pages.jpg' style='width: 100%'/>"
+   },
+   {
+      "name": "DesigNAV 設計模組化 CIS",
+      "client": "墨雨設計",
+      "description": "提供設計模組化的服務，自動合約到專案管理",
+      "website": "https://hahow.in/cr/monoame-webdesign1",
+      "img": "http://www.monoame.com/projects/proj_designav/main.jpg",
+      "content": "<img src='http://www.monoame.com/projects/proj_designav/p1.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_designav/p2.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_designav/p3.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_designav/p4.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_designav/p5.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_designav/p6.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_designav/p7.jpg' style='width: 100%'/>"
+   },
+   {
+      "name": "2016花旗聯合勸募官網",
+      "client": "花旗聯合勸募",
+      "description": "動態漫畫，展現生命的活力",
+      "website": "http://citi2016.unitedway.org.tw",
+      "img": "http://www.monoame.com/projects/proj_citi/main.png"
+   },
+   {
+      "name": "Monoame Design 墨雨設計視覺",
+      "client": "墨雨設計",
+      "description": "雨與墨水，將故事染入人心",
+      "website": "http://www.monoame.com",
+      "img": "http://www.monoame.com/projects/proj_monoame/main.png",
+      "content": "<a href='https://www.designawards.asia/tc/monoame-design/' target='_blank'>DAA亞洲設計網絡 Sep05 獎項</a><img src='http://www.monoame.com/projects/proj_monoame/01.png' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_monoame/02.png' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_monoame/03.png' style='width: 100%'/>"
+   },
+   {
+      "name": "May promote-SoundProject",
+      "client": "墨雨設計",
+      "description": "專輯推廣，以音樂實時產生粒子互動效果",
+      "website": "http://www.monoame.com/graphic_course/",
+      "img": "https://i.giphy.com/10yVSg6tw7byh2.gif",
+      "big_img": "http://www.monoame.com/projects/proj_may_album/main.jpg",
+      "content": "<img src='http://www.monoame.com/projects/proj_may_album/Present-01.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_may_album/Present-02.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_may_album/Present-03.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_may_album/Present-04.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_may_album/Present-05.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_may_album/Present-06.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_may_album/Present-07.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_may_album/Present-08.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_may_album/Present-09.jpg' style='width: 100%'/>"
+   },
+   {
+      "name": "翔虹AutoCAD技術中心CIS/網站",
+      "client": "翔虹AutoCAD技術中心",
+      "description": "繪圖、技術與教學的結晶",
+      "website": "http://autocad.tw",
+      "img": "http://www.monoame.com/projects/proj_autocad/main.jpg"
+   },
+   {
+      "name": "Dyverse Studio 歧響音樂",
+      "client": "歧響音樂工作室",
+      "description": "音樂工作室CIS，延展真實世界無限可能",
+      "website": "http://dyverse.studio/indexold.php",
+      "img": "http://i.giphy.com/l2JhzQ1MmNxwcnUOY.gif",
+      "big_img": "http://www.monoame.com/projects/proj_dyverse/main.jpg",
+      "content": "<img src='http://i.giphy.com/l2JhzQ1MmNxwcnUOY.gif' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_dyverse/backstage.jpg' style='width: 100%'/>"
+   },
+   {
+      "name": "肆意留詩-視覺化動態詩",
+      "client": "墨雨設計",
+      "description": "焦慮是時鐘裡有六十支秒針",
+      "website": "http://monoame.com/poem/1/",
+      "img": "http://i.giphy.com/3oriOchMWp4pPwGmxq.gif",
+      "big_img": "http://www.monoame.com/projects/proj_poem/main.jpg"
+   },
+   {
+      "name": "Complex Festival 複雜生活節",
+      "client": "複雜生活節",
+      "description": "我們都是恆星 / 燃盡生命貪婪膨脹的存在",
+      "website": "http://www.monoame.com/complex_festival",
+      "img": "http://i.giphy.com/3oriO35dsOQT4WuefS.gif",
+      "big_img": "http://www.monoame.com/projects/proj_complex/main.png",
+      "content": "<img src='http://www.monoame.com/projects/proj_complex/web1.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_complex/web2.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_complex/web3.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_complex/web4.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_complex/web5.jpg' style='width: 100%'/>"
+   },
+   {
+      "name": "Selinko智慧酒瓶認證 UI/UX",
+      "client": "Selinko",
+      "description": "與RemyMartin合作的限量酒款活動",
+      "website": "",
+      "img": "http://www.monoame.com/projects/proj_selinko/main.jpg",
+      "content": "<img src='http://www.monoame.com/projects/proj_selinko/main.jpg' style='width: 100%'/>"
+   },
+   {
+      "name": "國際美容化妝品展",
+      "client": "聯合報",
+      "description": "網頁製作、視覺設計",
+      "website": "",
+      "img": "http://www.monoame.com/projects/proj_beauty/main.jpg",
+      "content": "<img src='http://www.monoame.com/projects/proj_beauty/main.jpg' style='width: 100%'/>"
+   },
+   {
+      "name": "世界健康大會 | 網頁設計",
+      "client": "會議公司",
+      "description": "網頁與視覺設計",
+      "website": "",
+      "img": "http://www.monoame.com/projects/proj_health_conf/01.jpg",
+      "content": "<img src='http://www.monoame.com/projects/proj_health_conf/01.jpg' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_health_conf/main.jpg' style='width: 100%'/>"
+   },
+   {
+      "name": "啟程，畢業故事總匯瘋 | 活動VI設計",
+      "client": "故事旅社",
+      "description": "CIS 主視覺設計",
+      "website": "",
+      "img": "http://www.monoame.com/projects/proj_story/main.JPG"
+   },
+   {
+      "name": "聲熱石墨烯 腦瘤治療新契機3D動畫",
+      "client": "長庚醫院",
+      "description": "腦瘤治療新契機3D動畫製作",
+      "website": "https://www.youtube.com/watch?v=LfWsHmcm378",
+      "img": "http://www.monoame.com/projects/proj_brainsurgery_ani/main.png",
+      "content": "<img src='http://www.monoame.com/projects/proj_brainsurgery_ani/m01.png' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_brainsurgery_ani/m02.png' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_brainsurgery_ani/m03.png' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_brainsurgery_ani/m04.png' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_brainsurgery_ani/m05.png' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_brainsurgery_ani/m06.png' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_brainsurgery_ani/m07.png' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_brainsurgery_ani/m08.png' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_brainsurgery_ani/m09.png' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_brainsurgery_ani/m010.png' style='width: 100%'/><img src='http://www.monoame.com/projects/proj_brainsurgery_ani/m011.png' style='width: 100%'/>"
+   }
+]
